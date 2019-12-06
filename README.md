@@ -2,4 +2,6 @@
 
 Einfach das JupyterNotebook und die Excel-Datei runterladen,
 in Jupyter öffnen,
-bearbeitetn und dann das Verändetre Notebook wieder hochladen.
+bearbeiten und dann das Verändetre Notebook wieder hochladen.
+
+Ich fange dann jetzt auch mal an menen Code zu kommentierenm :)
